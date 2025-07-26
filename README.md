@@ -9,6 +9,7 @@
 
 - [Log: 01 Welcome to The SOC Log](https://wlozoya.com/the-logs/f/log-01-welcome)
 - [Log: 02 Reboot Sequence Initiated](https://wlozoya.com/the-logs/f/log-02)
+- [Log: 03 Troubleshooting Rock Bottom](https://wlozoya.com/the-logs/f/log-03)
 
 
 <h2> Connect with me:</h2>
