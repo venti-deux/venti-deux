@@ -4,7 +4,7 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/venti-deux/Azure-SOC)
-  - [Firewall & VPN Administration Step:1]([https://github.com/venti-deux/Azure-SOC](https://github.com/venti-deux/firewall-vpn-lab-step-1))
+  - [Firewall & VPN Administration Step:1]([https://github.com/venti-deux/Azure-SOC](https://github.com/venti-deux/firewall-vpn-lab-step-1)
 
 <h2>My Blog Posts</h2>
 
